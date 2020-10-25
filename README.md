@@ -6,9 +6,7 @@
 
 add_data_to_base.php - запуск по cron
                      загрузка инфо из файлов COMTRADE (.cfg и .dat)
-add_data_to_base.php - запуск по cron
-                     загрузка инфо из файлов COMTRADE (.cfg и .dat)
-                     
+
 
 analize.php - запуск по cron
               поиск коротких замыканий
